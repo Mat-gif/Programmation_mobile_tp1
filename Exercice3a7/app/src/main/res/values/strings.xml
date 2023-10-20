@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MyFirstProject</string>
+    <string name="nom">Nom :</string>
+    <string name="prenom">Prenom :</string>
+    <string name="age">Age :</string>
+    <string name="telephone">Telephone :</string>
+    <string name="domaine">Domaine :</string>
+    <string name="valider">Valider</string>
+
+
+    <string-array name="domaines">
+        <item>Informatique</item>
+        <item>Biologie</item>
+        <item>Chimie</item>
+        <item>Mathematique</item>
+        <item>Physique</item>
+        <item>Autre</item>
+    </string-array>
+
+    <string name="viewNom"></string>
+    <string name="viewPrenom"></string>
+    <string name="viewAge"></string>d
+    <string name="viewTelephone"></string>
+    <string name="retourB">Retour</string>
+    <string name="okB">Ok</string>
+
+
+    <string name="applerB">Appeler</string>
+    <string name="third_telephone"></string>
+
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Application_Trains</string>
+
+    <string name="titleMain">Chercher un itinéraire</string>
+    <string name="startMain">Départ : </string>
+    <string name="stopMain">Destination : </string>
+    <string name="findButton">Valider</string>
+
+    <string name="titleSecond">Horaires des trains</string>
+
+    <string name="retourButton">Retour</string>
+
+    <string-array name="start">
+
+    </string-array>
+
+</resources>

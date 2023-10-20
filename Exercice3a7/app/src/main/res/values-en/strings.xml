@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyFirstProject</string>
+    <string name="nom">Name :</string>
+    <string name="prenom">Firstname :</string>
+    <string name="age">Age :</string>
+    <string name="telephone">Phone :</string>
+    <string name="domaine">Sector :</string>
+    <string name="valider">Submit :</string>
+    <string name="retourB">Back</string>
+    <string name="okB">Ok</string>
+    <string name="applerB">Call</string>
+</resources>
